@@ -35,7 +35,7 @@ Emoji Fast Food<br>[HEIC](/images/Safari-Background_Emoji_Fast-Food.640.heic?raw
 
 | Topography Purple<br>[HEIC](/images/MobileAssetBackgroundImages/2024_01_TOPOGRAPHY_PURPLE.heic?raw=true) <span style="font-size: 75%">(28.4 MB)</span> | Topography Greenblue<br>[HEIC](/images/MobileAssetBackgroundImages/2024_02_TOPOGRAPHY_GREENBLUE.heic?raw=true) <span style="font-size: 75%">(20.1 MB)</span> |
 | --- | --- |
-| [![](/images/MobileAssetBackgroundImagesThumbnails/2024_01_TOPOGRAPHY_PURPLE.heic?raw=true)](/images/MobileAssetBackgroundImages/2024_01_TOPOGRAPHY_PURPLE.heic?raw=true) | [![](/images/MobileAssetBackgroundImagesThumbnails/2024_02_TOPOGRAPHY_GREENBLUE.heic?raw=true)](/images/MobileAssetBackgroundImages/2024_02_TOPOGRAPHY_GREENBLUE.heic?raw=true) |
+| [![](/images/MobileAssetBackgroundImagesThumbnails/2024_01_TOPOGRAPHY_PURPLE.jpg?raw=true)](/images/MobileAssetBackgroundImages/2024_01_TOPOGRAPHY_PURPLE.heic?raw=true) | [![](/images/MobileAssetBackgroundImagesThumbnails/2024_02_TOPOGRAPHY_GREENBLUE.jpg?raw=true)](/images/MobileAssetBackgroundImages/2024_02_TOPOGRAPHY_GREENBLUE.heic?raw=true) |
 
 
 | SF Symbols Grey<br>[HEIC](/images/MobileAssetBackgroundImages/2024_03_SFSYMBOLS_GREY.heic?raw=true) <span style="font-size: 75%">(17 MB)</span> | SF Symbols Beige<br>[HEIC](/images/MobileAssetBackgroundImages/2024_04_SFSYMBOLS_BEIGE.heic?raw=true) <span style="font-size: 75%">(17 MB)</span> |
