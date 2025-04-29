@@ -4,7 +4,7 @@ The [original images](#images-added-in-macos-big-sur-11) can be found in the fol
 
     /Applications/Safari.app/Contents/Resources/Background Images
 
-[Images added in macOS Sequoia 15.2](#images-added-in-macos-sequoia-15.2) (Safari 18.2) can be found in the following directory* and higher after they have been downloaded through Safari:
+[Images added in macOS Sequoia 15.2](#images-added-in-macos-sequoia-152) (Safari 18.2) can be found in the following directory* and higher after they have been downloaded through Safari:
 
     ~/Library/Containers/com.apple.Safari/Data/Library/Safari/StartPage/MobileAssetBackgroundImages
 
